@@ -1,0 +1,16 @@
+{
+    "name": "ludger/calendrier",
+    "authors": [
+        {
+            "name": "Richard",
+            "email": "richard.rdla@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Calendrier\\":"src/Calendrier",
+            "App\\": "src/App"
+        }
+    },
+    "require": {}
+}
